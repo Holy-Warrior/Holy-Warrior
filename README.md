@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B9E,100:4B3F72&height=200&section=header&text=Hamza%20Bin%20Zafar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B9E,100:4B3F72&height=200&section=header&text=Hamza%20Bin%20Zafar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" alt="Hamza Bin Zafar" />
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B9E,100:4B3F72&height=200&section=header&text=Hamza%20Bin%20Zafar&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18&descColor=ffffff" alt="Hamza Bin Zafar" />
+</p>
 
 <div align="center">
 
@@ -94,12 +93,20 @@ Full-stack voting platform with auth, one-vote-per-user enforcement, real-time r
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=default&hide_border=true&title_color=6C5B9E&icon_color=6C5B9E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&hide_border=true&title_color=6C5B9E&langs_count=8" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=6C5B9E&icon_color=6C5B9E&text_color=2B2438#gh-light-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=C9BFE8&icon_color=C9BFE8&text_color=F0EEF7#gh-dark-mode-only" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&hide_border=true&bg_color=00000000&title_color=6C5B9E&text_color=2B2438&langs_count=8#gh-light-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&hide_border=true&bg_color=00000000&title_color=C9BFE8&text_color=F0EEF7&langs_count=8#gh-dark-mode-only" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=6C5B9E&fire=4B3F72&currStreakLabel=6C5B9E" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=6C5B9E&fire=4B3F72&currStreakLabel=6C5B9E&currStreakNum=2B2438&sideNums=2B2438&sideLabels=2B2438&dates=6C5B9E#gh-light-mode-only" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=C9BFE8&fire=A493D6&currStreakLabel=C9BFE8&currStreakNum=F0EEF7&sideNums=F0EEF7&sideLabels=F0EEF7&dates=C9BFE8#gh-dark-mode-only" />
+
 </div>
 
 <br>
