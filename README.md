@@ -94,19 +94,28 @@ Full-stack voting platform with auth, one-vote-per-user enforcement, real-time r
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=6C5B9E&icon_color=6C5B9E&text_color=2B2438#gh-light-mode-only" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=C9BFE8&icon_color=C9BFE8&text_color=F0EEF7#gh-dark-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Holy-Warrior&show_icons=true&theme=default&hide_border=true#gh-light-mode-only">
+  <img alt="GitHub Stats">
+</picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&hide_border=true&bg_color=00000000&title_color=6C5B9E&text_color=2B2438&langs_count=8#gh-light-mode-only" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&hide_border=true&bg_color=00000000&title_color=C9BFE8&text_color=F0EEF7&langs_count=8#gh-dark-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&theme=dark&hide_border=true&langs_count=8#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Holy-Warrior&layout=compact&theme=default&hide_border=true&langs_count=8#gh-light-mode-only">
+  <img alt="Top Languages">
+</picture>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=6C5B9E&fire=4B3F72&currStreakLabel=6C5B9E&currStreakNum=2B2438&sideNums=2B2438&sideLabels=2B2438&dates=6C5B9E#gh-light-mode-only" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=C9BFE8&fire=A493D6&currStreakLabel=C9BFE8&currStreakNum=F0EEF7&sideNums=F0EEF7&sideLabels=F0EEF7&dates=C9BFE8#gh-dark-mode-only" />
-
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=C9BFE8&fire=A493D6&currStreakLabel=C9BFE8&currStreakNum=F0EEF7&sideNums=F0EEF7&sideLabels=F0EEF7&dates=C9BFE8#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Holy-Warrior&hide_border=true&background=FFFFFF00&ring=6C5B9E&fire=4B3F72&currStreakLabel=6C5B9E&currStreakNum=2B2438&sideNums=2B2438&sideLabels=2B2438&dates=6C5B9E#gh-light-mode-only">
+  <img alt="GitHub Streak">
+</picture>
+  
 </div>
 
 <br>
