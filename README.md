@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B9E,100:4B3F72&height=200&section=header&text=Hamza%20Bin%20Zafar&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18&descColor=ffffff" alt="Hamza Bin Zafar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B9E,100:4B3F72&height=200&section=header&text=Hamza%20Bin%20Zafar&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Mobile%20%2F%20Web%20Developer&descAlignY=55&descSize=18&descColor=ffffff" alt="Hamza Bin Zafar" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5B9E&center=true&vCenter=true&width=600&lines=Flutter+%2F+Dart+on+mobile;Laravel+%2F+PHP+%2F+JS+on+the+web;WPF+%26+Rust%2FTauri+when+desktop+calls;Sprinkling+in+Generative+AI+when+it+helps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5B9E&center=true&vCenter=true&width=600&lines=Flutter+%2F+Dart+on+mobile;Laravel+%2F+PHP+%2F+JS+on+the+web;WPF+and+Rust%2FTauri+when+desktop+calls;Sprinkling+in+Generative+AI+when+it+helps)](https://git.io/typing-svg)
 
 </div>
 
