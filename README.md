@@ -55,9 +55,9 @@ Islamic utility app (prayer times, Qibla, Quran/Hadith) with a custom on-device 
 </td>
 <td width="50%" valign="top">
 
-**[Comic Tracker](https://github.com/Holy-Warrior/comic-tracker-library)** 🦀 · In Progress
-Cross-platform desktop app to track manga/manhua/manhwa/webtoon reading progress, with a Rust backend handling downloads (pause/resume support) and an embedded in-app browser.
-`Rust` `Tauri v2` `Svelte`
+**[Timetable Management App](https://github.com/Holy-Warrior/timetable-management)** 📅
+Personal Flutter app to simplify timetable management for myself and my classmates during university.
+`Flutter` `Dart`
 
 </td>
 </tr>
@@ -83,8 +83,8 @@ Full-stack voting platform with auth, one-vote-per-user enforcement, real-time r
 <summary>More projects</summary>
 <br>
 
+- **[Comic Tracker](https://github.com/Holy-Warrior/comic-tracker-library)** — Cross-platform desktop app to track manga/manhua/manhwa/webtoon reading progress, with a Rust backend handling downloads (`Rust`, `Tauri v2`, `Svelte`) — *In Progress*
 - **[TobaccoManager](https://github.com/Holy-Warrior/TobaccoManager)** — WPF desktop app for stock, sales, and customer management (`C#`, `WPF`, `EF Core`)
-- **[Timetable Management App](https://github.com/Holy-Warrior/timetable-management)** — Personal Flutter app to simplify class scheduling for me and my classmates
 
 </details>
 
