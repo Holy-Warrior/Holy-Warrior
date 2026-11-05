@@ -54,7 +54,7 @@ I'm a Software Engineering student who ended up comfortable across more stacks t
 <tr>
 <td width="50%" valign="top">
 
-**[PantryChef AI](https://github.com/Holy-Warrior/panthry-chef-ai)** 🍳🤖 · *Latest*
+**[PantryChef AI](https://github.com/Holy-Warrior/pantry-chef-ai)** 🍳🤖 · *Latest*
 Smart home-cooking recipe assistant that creates practical, delicious meals from whatever ingredients you have in your pantry. Features multi-model Gemini AI fallback, multi-recipe suggestions, step-by-step guided cooking mode, and custom Kotlin Android native module for timer alerts.
 `React` `React Native` `Expo` `TypeScript` `Gemini AI` `Kotlin`
 
